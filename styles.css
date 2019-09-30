@@ -8,11 +8,10 @@ body {
 	color: #1F262A;
 	align-content: center;
 	background-color: #FFCB21;
-
 }
 
 h1 {
-	color: #73EEDC;
+	color: #12D6E1;
 }
 button {
 	background-color: #12D6E1;
@@ -24,5 +23,4 @@ button {
 	display: inline-block;
 	border-radius: 20px;
 	font-size: 16px;
-
 }

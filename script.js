@@ -20,5 +20,3 @@ button.addEventListener("click", function(){
 	liThree.classList.add("done");
  	});
 
-
-
